@@ -1,0 +1,5 @@
+.superpowers/
+.env
+*.log
+__pycache__/
+.idea/
