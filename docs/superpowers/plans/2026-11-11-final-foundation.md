@@ -27,27 +27,27 @@
 
 **Files:** templates/*.md, README.md, docs/sources-and-verification.md.
 **Interfaces:** Read source reports and remote SHA trees; produce lesson-to-homework map and exact course template structure.
-- [ ] Verify new path/repo absent, source HEAD/status read-only, and template page completely.
-- [ ] Preserve all five template structures; record full SHA links and L06/L08 reading notes.
-- [ ] Check all expected files/links/provenance; commit initial documents.
+- [x] Verify new path/repo absent, source HEAD/status read-only, and template page completely.
+- [x] Preserve all five template structures; record full SHA links and L06/L08 reading notes.
+- [x] Check all expected files/links/provenance; commit initial documents.
 Expected: separate document repository, no imported homework artifacts.
 
 ### Task 2: LRA and evidence
 
 **Files:** lra.md, evidence-map.md, board-brief.md, incident-postmortem.md, answers.md.
 **Interfaces:** Consume frozen source map; produce E-ID-linked answers and pending late-course documents.
-- [ ] Before writing content, run document acceptance checks and observe missing files/rows.
-- [ ] Populate LRA1–5, decision, evidence rows; preserve LRA6/7 and late documents as pending.
-- [ ] Recompute chosen counts/costs/intervals from original tracked sources; verify every source path and all local links.
+- [x] Before writing content, run document acceptance checks and observe missing files/rows.
+- [x] Populate LRA1–5, decision, evidence rows; preserve LRA6/7 and late documents as pending.
+- [x] Recompute chosen counts/costs/intervals from original tracked sources; verify every source path and all local links.
 Expected: no unsupported percentage, cost or implemented-fix claim.
 
 ### Task 3: Durable post-task and publication
 
 **Files:** AGENTS.md, post-task-checklist.md; global C:/Users/Admin/.codex/AGENTS.md (scoped addition only).
 **Interfaces:** Consume final-document paths/E-ID convention; produce persistent course workflow instruction.
-- [ ] Add scoped global and local rules: inspect evidence, update LRA/map/README, preserve predictions/provenance/remaining risks, stage explicit final paths.
-- [ ] Fresh whole-branch read-only review; address material issues once and rerun acceptance checks.
-- [ ] Verify no source repository changes, no secrets/report copies; stage explicit task files, commit and publish new public aiq-final/main.
+- [x] Add scoped global and local rules: inspect evidence, update LRA/map/README, preserve predictions/provenance/remaining risks, stage explicit final paths.
+- [x] Fresh whole-branch read-only review; address material issues once and rerun acceptance checks.
+- [x] Verify no source repository changes, no secrets/report copies; stage explicit task files, commit and publish new public aiq-final/main.
 Expected: future course tasks see the post-task instruction; public preparation is not falsely called final LMS submission.
 
 ## Self-review
